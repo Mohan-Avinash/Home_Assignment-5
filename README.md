@@ -2,7 +2,7 @@
 
 ## Student Information
 
-- *Name:* Mohan Avinash Kakullavarapu
+- *Name:* Mohan Avinash Kakulavarapu
 - *Student ID:* 700762693
 - *CRN:* 23847
 - *Course:* CS5720 Neural Networks and Deep Learning
