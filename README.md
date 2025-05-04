@@ -42,7 +42,7 @@ All code is contained in a single Jupyter notebook:
 
 A short video (2–3 minutes) explaining the code, architecture, and results for each task:
 
-🎥 *Video Link:* [Watch on Loom]()
+🎥 *Video Link:* [Watch on Loom](https://www.loom.com/share/97d6112a80de432dae887c7b4897e805)
 
 ---
 
